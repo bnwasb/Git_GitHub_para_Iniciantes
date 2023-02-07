@@ -24,4 +24,5 @@ git push origin main(ou master) = enviar arquivo para o GITHUB.
 -----------------------------------------------------------------
 git branch -M "main"= Renomear a branch para "main".
 -----------------------------------------------------------------
+git checkout -b "nomeNovaBranch" = sair da Branch atual, criar e entrar em uma nova Branch.
 
