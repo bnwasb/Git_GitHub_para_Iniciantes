@@ -4,9 +4,11 @@ Projeto criado para aprender a utilizar o Git
 Salvando alterações e enviando para o repositório no GitHub:
 ---------------------------------------------------------------
 1º git add . (mandar para stage)
+---------------------------------
 2º git commit -m "new" (adicionar commit)
+------------------------------------------
 3º git push origin master (Empurrar para o repositório no GitHub)
-------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------
 
 Comandos básicos:
 -----------------
