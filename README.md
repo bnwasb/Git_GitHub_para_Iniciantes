@@ -1,7 +1,20 @@
-# (INICIANTE) COMO UTILIZAR Git & GitHub: 
+# (INICIANTE) Como adicionar repositório no GitHub com Git: 
 
-## Salvando alterações e enviando para o repositório no GitHub:
-Após utilizar `git init` para iniciar um repositório:
+## Preparativos:
+
+* 1º Faça o download do Git através do [link](https://git-scm.com/downloads)
+
+* 2º Instale a ferramenta: instalação padrão, next, next... install.
+* (não se preocupe com as diversas configurações de instalação nesse momento)
+  
+* 3º Depois de instalado, crie uma pasta no seu computador, ela será o repositório local (você a enviará para o GitHub posteriormente). 
+* Clique com o botão direito do mouse dentro da pasta e clique em *Git GUI Here*. Esse comando abrirá o terminal já dentro do seu diretório/pasta(local).
+
+* 4º Vamos aos primeiros comandos! Dentro do terminal, digite `git version` para exibir a versão do Git. Caso houver erro de instalção, também exibirá no console.
+
+* 5° Digite `git init` para iniciar o repositório.
+
+## Adicionando arquivos e enviando para o repositório no GitHub:
 
 * 1º `git add .` (mandar para *staging*);
 
