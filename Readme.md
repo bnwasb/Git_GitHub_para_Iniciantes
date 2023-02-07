@@ -20,7 +20,7 @@ git remote add origin +linkDoRepositório = Adicionar repositório do GITHUB.
 -----------------------------------------------------------------
 shift+insert = ctrl+V
 -----------------------------------------------------------------
-git push -u origin main(ou master) = enviar arquivo para o GITHUB.
+git push origin main(ou master) = enviar arquivo para o GITHUB.
 -----------------------------------------------------------------
 git branch -M "main"= Renomear a branch para "main".
 -----------------------------------------------------------------
