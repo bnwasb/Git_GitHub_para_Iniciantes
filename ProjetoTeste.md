@@ -1,1 +1,0 @@
-Este é um projeto fake apenas para testar as funcionalidades do GITHub.
