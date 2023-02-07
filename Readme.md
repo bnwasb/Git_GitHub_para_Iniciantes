@@ -1,4 +1,4 @@
-# Projeto criado para aprender a utilizar o Git:
+# (INICIANTE) COMO UTILIZAR Git & GitHub: 
 
 ## Salvando alterações e enviando para o repositório no GitHub:
 Após utilizar `git init` para iniciar um repositório:
