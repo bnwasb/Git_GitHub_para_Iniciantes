@@ -35,3 +35,5 @@ git branch -M "main"= Renomear a branch para "main".
 ----------------------------------------------------
 git checkout -b "nomeNovaBranch" = sair da Branch atual, criar e entrar em uma nova Branch.
 -------------------------------------------------------------------------------------------
+git checkout master (ou main) = retorna pra branch principal.
+--------------------------------------------------------------
