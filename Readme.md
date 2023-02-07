@@ -37,3 +37,5 @@ git checkout -b "nomeNovaBranch" = sair da Branch atual, criar e entrar em uma n
 -------------------------------------------------------------------------------------------
 git checkout master (ou main) = retorna pra branch principal.
 ---------------------------------------------------------------
+git merge "nomeDaBranch" = adicionar a branch ao master/main.
+--------------------------------------------------------------
