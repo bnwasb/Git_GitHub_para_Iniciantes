@@ -25,7 +25,7 @@ git status = verificar mudanças à receber commit.
 -------------------------------------------------
 git comit -m "mensagem do commit"= Fazer o commit.
 --------------------------------------------------
-git remote add origin +linkDoRepositório = Adicionar repositório do GITHUB.
+git remote add origin +linkDoRepositório = Adicionar repositório local da máquina no GITHUB.
 ---------------------------------------------------------------------------
 shift+insert = ctrl+V
 ----------------------
