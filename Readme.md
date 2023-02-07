@@ -2,6 +2,7 @@ Projeto criado para aprender a utilizar o Git
 ----------------------------------------------
 
 Salvando alterações e enviando para o repositório no GitHub:
+(após utilizar *git init* para iniciar um repositório)
 ---------------------------------------------------------------
 1º git add . (mandar para stage)
 ---------------------------------
@@ -39,4 +40,7 @@ git checkout master (ou main) = retorna pra branch principal.
 ---------------------------------------------------------------
 git merge "nome-da-branch" = adicionar a branch ao master/main.
 --------------------------------------------------------------
-git clone 'url-do-repositório' = Para clonar um repositório, basta criar uma pasta local, abrir o Git Bash dentro da pasta e utilizar o comando com a url do repositório a ser clonado. 
+git clone 'url-do-repositório' = para clonar um repositório, basta criar uma pasta local, abrir o Git Bash dentro da pasta e utilizar o comando com a url do repositório a ser clonado.
+--------------------------------------------------------------
+git pull = comando utilizado para 'puxar' as atualizações/mudanças de um repositório do GitHub para o repositório local.
+--------------------------------------------------------------
