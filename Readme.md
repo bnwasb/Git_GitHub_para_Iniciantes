@@ -14,16 +14,16 @@
 
 
 * `Ctrl + Insert` = Ctrl + C (copy)
-  `Shift + Ins`   = Ctrl + V (paste)
+* `Shift + Ins`   = Ctrl + V (paste)
 
-* `git version` = Verificar a versão do *Git* (se há erros de instalação);
+* `git version` = Verificar a versão do *Git (se há erros de instalação);
 
 * `git init` = Iniciar um novo repositório;
 
 * `clear` = Limpar códigos do console;
 
 * `git add .` = Adicionar todos os arquivos ao *stage*.
-  `git add` +`'arquivo.tipo'` = Adiciona arquivo expecífico ao *stage* para fazer *commit* quando necessário.
+* `git add` +`'arquivo.tipo'` = Adiciona arquivo expecífico ao *stage* para fazer *commit* quando necessário.
 
 * `git status` = Verificar mudanças à receber *commit*.
 
