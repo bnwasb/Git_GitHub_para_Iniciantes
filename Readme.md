@@ -1,35 +1,37 @@
 Projeto criado para aprender a utilizar o Git 
 ----------------------------------------------
 
-Salvando alterações e enviando para o repositório no GitHub:
+# Salvando alterações e enviando para o repositório no GitHub:
 (após utilizar *git init* para iniciar um repositório)
----------------------------------------------------------------
-1º git add . (mandar para stage)
+
+ ## 1º `git add .` (mandar para stage)
 ---------------------------------
-2º git commit -m "new" (adicionar commit)
-------------------------------------------
-3º git push origin master (Empurrar para o repositório no GitHub)
+* 2º `git commit -m "coment"` (adicionar commit com mensagem)
+------------------------------------------------------------
+* 3º `git push origin master`(Empurrar para o repositório no GitHub)
 ------------------------------------------------------------------
 
 Comandos básicos:
 -----------------
-git version = Verificar a versão do Git (se há erros de instalação);
+
+`Ctrl + Insert` = Ctrl + C (copy)
+`Shift + Ins`   = Ctrl + V (paste)
+
+`git version` = Verificar a versão do Git (se há erros de instalação);
 ---------------------------------------------------------------------
-git init = Iniciar um novo repositório;
+`git init` = Iniciar um novo repositório;
 ---------------------------------------
-clear = limpar o console;
+`clear` = limpar o console;
 --------------------------
-git add. = adicionar todos os arquivos ao stage.
-git add +'arquivo.tipo' = Adiciona arquivo expecífico ao stage para fazer commit quando necessário.
+`git add .` = adicionar todos os arquivos ao stage.
+`git add` +`'arquivo.tipo'` = Adiciona arquivo expecífico ao stage para fazer commit quando necessário.
 ----------------------------------------------------------------------------------------------------
-git status = verificar mudanças à receber commit.
+`git status` = verificar mudanças à receber commit.
 -------------------------------------------------
-git comit -m "mensagem do commit"= Fazer o commit.
+`git comit -m` `"coment"`= Fazer o commit com comentário entre `""`.
 --------------------------------------------------
-git remote add origin +linkDoRepositório = Adicionar repositório local da máquina no GITHUB.
+`git remote add origin` +`url-do-repositório` = Adicionar repositório local da máquina no GITHUB.
 ---------------------------------------------------------------------------
-shift+insert = ctrl+V
-----------------------
 git push origin main(ou master) = enviar arquivo para o GITHUB.
 ---------------------------------------------------------------
 git branch -M "main"= Renomear a branch para "main".
