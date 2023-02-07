@@ -37,5 +37,6 @@ git checkout -b "nomeNovaBranch" = sair da Branch atual, criar e entrar em uma n
 -------------------------------------------------------------------------------------------
 git checkout master (ou main) = retorna pra branch principal.
 ---------------------------------------------------------------
-git merge "nomeDaBranch" = adicionar a branch ao master/main.
+git merge "nome-da-branch" = adicionar a branch ao master/main.
 --------------------------------------------------------------
+git clone 'url-do-repositório' = Para clonar um repositório, basta criar uma pasta local, abrir o Git Bash dentro da pasta e utilizar o comando com a url do repositório a ser clonado. 
