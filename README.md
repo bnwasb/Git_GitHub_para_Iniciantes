@@ -20,7 +20,7 @@ Clique com o botão direito do mouse dentro da pasta e clique em *Git GUI Here*.
 
 * 2º `git commit -m "coment"` (adicionar *commit* com mensagem);
 
-* 3º `git push origin master`(Empurrar para o repositório no GitHub).
+* 3º `git push -u origin main`(Empurrar para o repositório no GitHub).
 
 
 ## Comandos básicos do Git:
@@ -44,7 +44,7 @@ Clique com o botão direito do mouse dentro da pasta e clique em *Git GUI Here*.
 
 * `git remote add origin` +`url-do-repositório` = Adicionar repositório local da máquina no GitHub;
 
-* `git push origin main`(ou *master*) = Enviar arquivo para o repositório no GitHub;
+* `git push -u origin main`(ou *master*) = Enviar arquivo para o repositório no GitHub;
 
 * `git branch -M "main"` = Renomear a *branch* para *main*(ou outro nome);
 
