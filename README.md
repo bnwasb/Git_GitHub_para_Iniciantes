@@ -1,4 +1,4 @@
-# (INICIANTE) Como adicionar repositório no GitHub com Git: 
+# Como adicionar repositório no GitHub com Git: 
 
 ## Preparativos:
 
