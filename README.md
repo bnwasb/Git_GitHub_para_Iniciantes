@@ -5,7 +5,7 @@
 * 1º Faça o download do Git através do [link](https://git-scm.com/downloads)
 
 * 2º Instale a ferramenta: instalação padrão, next, next... install.
-* (não se preocupe com as diversas configurações de instalação nesse momento)
+(não se preocupe com as diversas configurações de instalação nesse momento)
   
 * 3º Depois de instalado, crie uma pasta no seu computador, ela será o repositório local (você a enviará para o GitHub posteriormente). 
 Clique com o botão direito do mouse dentro da pasta e clique em *Git GUI Here*. Esse comando abrirá o terminal já dentro do seu diretório/pasta(local).
