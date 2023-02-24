@@ -8,7 +8,7 @@
 * (não se preocupe com as diversas configurações de instalação nesse momento)
   
 * 3º Depois de instalado, crie uma pasta no seu computador, ela será o repositório local (você a enviará para o GitHub posteriormente). 
-* Clique com o botão direito do mouse dentro da pasta e clique em *Git GUI Here*. Esse comando abrirá o terminal já dentro do seu diretório/pasta(local).
+Clique com o botão direito do mouse dentro da pasta e clique em *Git GUI Here*. Esse comando abrirá o terminal já dentro do seu diretório/pasta(local).
 
 * 4º Vamos aos primeiros comandos! Dentro do terminal, digite `git version` para exibir a versão do Git. Caso houver erro de instalção, também exibirá no console.
 
@@ -25,7 +25,7 @@
 
 ## Comandos básicos do Git:
 
-* `Ctrl + Ins`  = Ctrl + C (copy) &
+* `Ctrl + Ins`  = Ctrl + C (copy);
 * `Shift + Ins` = Ctrl + V (paste);
 
 * `git version` = Verificar a versão do Git (se há erros de instalação);
