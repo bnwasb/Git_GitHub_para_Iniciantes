@@ -23,7 +23,9 @@ Caso exibir o erro "Please tell me who you are" é só usar os seguintes comando
 
 * 2º `git commit -m "coment"` (adicionar *commit* com mensagem);
 
-* 3º `git push -u origin main`(Empurrar para o repositório no GitHub).
+* 3º `git remote add origin`+`url-do-repositório` ('linkar' o repositório remoto do GitHub);
+
+* 4º `git push -u origin main`(Empurrar para o repositório no GitHub).
 
 ## Comandos básicos do Git:
 
@@ -58,6 +60,12 @@ Caso exibir o erro "Please tell me who you are" é só usar os seguintes comando
 
 * `git clone 'url-do-repositório'` = Para clonar um repositório, basta criar uma pasta local, abrir o Git Bash dentro da pasta e utilizar o comando com a url do repositório a ser clonado;
 
-* `git pull` = Utilizado para 'puxar' as atualizações/mudanças do repositório do GitHub para o repositório local.
+* `git pull` = Utilizado para 'puxar' as atualizações/mudanças do repositório do GitHub para o repositório local. <br/> 
+- Se no reposiório remoto houver arquivos que não há na pasta local, é recomendado utilizar o `git pull`, <br/>
+  antes de escrever mais arquivos com `git push`
+  <br/>
+
+* `git push -f origin master` = <b>force-push</b> (Escreve o repositório local por cima do repositório remoto)   <br/>
+ (CUIDADO) Se estiver trabalhando em equipe, NÃO force o push... pois os arquivos no repositório remoto serão perdidos.
 
 * `rd .git /S/Q` = Utilizado no <b>cmd</b>, dentro do diretório local, para excluir o arquivo .git e recomeçar em caso de bugs.
