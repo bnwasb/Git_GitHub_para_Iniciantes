@@ -25,7 +25,6 @@ Caso exibir o erro "Please tell me who you are" é só usar os seguintes comando
 
 * 3º `git push -u origin main`(Empurrar para o repositório no GitHub).
 
-
 ## Comandos básicos do Git:
 
 * `Ctrl + Ins`  = Ctrl + C (copy);
@@ -60,3 +59,5 @@ Caso exibir o erro "Please tell me who you are" é só usar os seguintes comando
 * `git clone 'url-do-repositório'` = Para clonar um repositório, basta criar uma pasta local, abrir o Git Bash dentro da pasta e utilizar o comando com a url do repositório a ser clonado;
 
 * `git pull` = Utilizado para 'puxar' as atualizações/mudanças do repositório do GitHub para o repositório local.
+
+* `rd .git /S/Q` = Utilizado no <b>cmd</b>, dentro do diretório local, para excluir o arquivo .git e recomeçar em caso de bugs.
