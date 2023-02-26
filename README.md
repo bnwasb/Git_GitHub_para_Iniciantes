@@ -12,7 +12,10 @@ Clique com o botão direito do mouse dentro da pasta e clique em *Git GUI Here*.
 
 * 4º Vamos aos primeiros comandos! Dentro do terminal, digite `git version` para exibir a versão do Git. Caso houver erro de instalção, também exibirá no console.
 
-* 5° Digite `git init` para iniciar o repositório.
+* 5° Digite `git init` para iniciar o repositório. <br/>
+Caso exibir o erro "Please tell me who you are" é só usar os seguintes comandos: <br/>
+`git config --global user.email "seu-email-cadastrado-no-git"` <br/>
+`git config --global user.name "seu-nome-no-git"`
 
 ## Adicionando arquivos e enviando para o repositório no GitHub:
 
